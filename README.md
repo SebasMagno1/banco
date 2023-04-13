@@ -1,5 +1,5 @@
 # banco
 
-informacion Nicole Rojas
-imagenes Juan Jose Valda
-contactos Sebastian Escobar
+ Nicole Rojas
+ Juan Jose Valda
+ Sebastian Escobar
